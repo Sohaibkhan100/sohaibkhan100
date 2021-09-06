@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-## Computer Scientist to be...
+## Computer Scientist to be
 - 🌱 I’m currently learning python,dart and flutter.
